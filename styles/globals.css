@@ -34,6 +34,9 @@ code {
   align-items: center;
 }
 
-.description {
-  max-width: 50vw;
+@media only screen and (min-width: 960px) {
+  .description {
+    max-width: 50vw;
+    margin: 1rem;
+  }
 }
