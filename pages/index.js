@@ -17,6 +17,14 @@ export default function Home() {
           Docker, .NET Core. .NET Framework, Laravel, MySQL, MongoDB, Redis, Object Relational Mapping using Entity Framework Core, RESTful API, OData, unit testing using xUnit, 
           while on frontend stacks using Vue.js, Reach.js, and jQuery. I have also some experiences in SharePoint development. 
         </p>
+        <p>
+          Find me on <a href="https://github.com/yudihermawan">Github</a>, 
+          <a href="https://www.linkedin.com/in/yudi-hermawan/"></a>LinkedIn, 
+          <a href="https://medium.com/@yudi.hs">Medium</a>, 
+          <a href="https://twitter.com/yudify_">Twitter</a>, 
+          <a href="https://facebook.com/hs.yudi">Facebook</a>, or 
+          <a href="https://www.instagram.com/yudihermawan.s/"></a>Instagram
+        </p>
       </main>
     </div>
   )
