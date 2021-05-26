@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Hi there!" />
+        <Header title="👋 Holla!" />
         <p className="description">
           My name Yudi Hermawan, I am experienced Software Developer trained {year} years of total experience in Web Development using backend stacks:
           Docker, .NET Core, .NET Framework, Laravel, MySQL, MongoDB, Redis, Object Relational Mapping using Entity Framework Core, RESTful API, OData, unit testing using xUnit,
